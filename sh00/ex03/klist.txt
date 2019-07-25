@@ -1,0 +1,5 @@
+Credentials cache: API:87436912-7A64-4AD7-B2F4-51A97140ACC8
+        Principal: rotrojan@42.FR
+
+  Issued                Expires               Principal
+Jul  1 09:25:45 2019  Jul  8 09:25:28 2019  krbtgt/42.FR@42.FR
